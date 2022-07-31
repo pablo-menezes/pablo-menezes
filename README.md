@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**pablo-menezes/pablo-menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, Eu sou Pablo Menezes 👋
+![Linkedin](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
+#### Métricas do Github 
+(Calma ai que tô começando rsrs) 🚀
 
-Here are some ideas to get you started:
+![pablo-menezes' GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-menezes&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode falar comigo através das contas abaixo:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-menezes-in)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pablolira13)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablolira13@gmail.com)
+
