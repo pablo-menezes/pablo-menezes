@@ -2,7 +2,7 @@
 ### Olá, Eu sou Pablo Menezes 👋
 ![Linkedin](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
 #### Métricas do Github 
-(Calma ai que tô começando rsrs) 🚀
+ 🚀
 
 ![pablo-menezes' GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-menezes&show_icons=true&theme=dracula)
 
